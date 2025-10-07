@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://usocarruso25.github.io/Calculadora",
+  "homepage": "https://usocarruso25.github.io/Calculadora/",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
